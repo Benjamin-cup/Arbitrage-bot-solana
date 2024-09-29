@@ -2,6 +2,10 @@
 
 Arbitrage bots are tools that examine prices across exchanges and make trades to take advantage of discrepancies
 
+## Contact me
+
+-
+
 
 ## layout 
 - `client/`: off-chain arbitrage bot code 
