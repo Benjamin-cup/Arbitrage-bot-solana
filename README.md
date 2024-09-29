@@ -1,6 +1,6 @@
 # solana-arbitrage-bot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Arbitrage bots are tools that examine prices across exchanges and make trades to take advantage of discrepancies
 
 
 ## layout 
