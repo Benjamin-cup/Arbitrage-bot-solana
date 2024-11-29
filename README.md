@@ -4,7 +4,7 @@ Arbitrage bots are tools that examine prices across exchanges and make trades to
 
 ## Contact me
 
--telegram: https://t.me/Akamala88071015
+-telegram: https://t.me/TomySOL
 -Discord: https://discord.com/users/304228787250528256
 
 
