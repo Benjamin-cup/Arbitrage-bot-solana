@@ -25,8 +25,7 @@ each folder contains a corresponding `README.md` which explains how it works
 - mercurial 
 - orca 
 
-## result
-![arbitrage bot](https://github.com/user-attachments/assets/281d5c2e-20ed-4007-bb2b-aebcfe015f60)
+
 
 
 
