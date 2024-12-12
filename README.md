@@ -28,7 +28,8 @@ each folder contains a corresponding `README.md` which explains how it works
 
 ## Result
 
-![arbitrage bot](https://github.com/user-attachments/assets/914dfe13-84c2-4050-b6b4-076a1b471936)
+![arbitrage bot1](https://github.com/user-attachments/assets/1d0121d2-0d99-4f83-9aeb-83abdd9ba08c)
+
 
 
 
