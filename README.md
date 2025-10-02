@@ -4,10 +4,11 @@ Arbitrage bots are tools that examine prices across exchanges and make trades to
 
 ## Contact me
 
--telegram: @erikerik116
+Gmail: benjamin.bigdev@gmail.com
 
--Discord: @erikerik116
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
 
+Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
 
 ## layout 
 - `client/`: off-chain arbitrage bot code 
